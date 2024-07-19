@@ -1,0 +1,42 @@
+
+Analysis Report
+
+a. Average loan amount for borrowers who are more than 5 days past due:
+--------------------------------------------------------------------------------
+54683.16
+
+b. Top 10 borrowers with the highest outstanding balance:
+--------------------------------------------------------------------------------
+           name  outstanding_balance
+Jayant Bhandari              -108.01
+ Riaan Bhargava              -122.31
+    Prisha Char              -149.79
+      Ivan Keer              -152.70
+      Ira Varty              -156.64
+    Riaan Lalla              -158.91
+      Urvi Virk              -161.40
+   Yasmin Divan              -163.69
+   Kiara Kurian              -166.93
+    Bhavin Bala              -168.79
+
+c. List of all borrowers with good repayment history:
+--------------------------------------------------------------------------------
+  Shamik Joshi
+     Shalv Lad
+     Anvi Saha
+  Kaira Doctor
+   Aarna Salvi
+    Aaina Dhar
+   Zaina Kunda
+Keya Jayaraman
+   Adira Magar
+   Divit Sahni
+
+d. Brief analysis with respect to loan type:
+--------------------------------------------------------------------------------
+      loan_purpose  num_borrowers  avg_loan_amount
+debt_consolidation           1020     55704.978431
+    education_fees           1053     56063.981956
+   home_renovation            956     54320.202929
+ medical_emergency            981     54787.685015
+  wedding_expenses            990     55490.034343
